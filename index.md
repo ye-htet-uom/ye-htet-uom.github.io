@@ -2,4 +2,5 @@
 title: This is my portfolio!
 ---
 
-Just checking.
+Just checking.\
+Now I am on my Macbook.
