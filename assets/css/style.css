@@ -503,6 +503,13 @@ a.hoverline:hover {
   display: table-cell;
 }
 
+.logo-img {
+  width: 100px; /* Set desired width */
+  height: 100px; /* Set desired height */
+  object-fit: contain; /* Ensure logos fit inside without distortion */
+  margin: 10px auto; /* Add space around the logos */
+}
+
 .card.large .card-content p {
   color: inherit;
   margin: 0;
