@@ -507,16 +507,7 @@ a.hoverline:hover {
 }
 
 .card.large .card-image {
-  display: flex;
-  justify-content: center;  /* Horizontally centers the image */
-  align-items: center;      /* Vertically centers the image */
-  height: 100%;             /* Ensure the container has a defined height */
-}
-
-.card.large .image-center {
-  height: 100%;
-  width: auto;
-  object-fit: contain;
+  height: 230px;
 }
 
 .card.large .card-content {
