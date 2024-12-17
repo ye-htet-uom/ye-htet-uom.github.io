@@ -110,7 +110,7 @@
 
 .contactme {
   position: relative;
-  padding: 11px 35px;
+  padding: 5px 35px;
   background: none;
   color: #fff;
   border: 2px solid #fff;
@@ -118,7 +118,7 @@
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;
-  margin-top: 1.5em;
+  margin-top: 1em;
   border-radius: 5px;
   -webkit-border-radius: 5px;
 }
